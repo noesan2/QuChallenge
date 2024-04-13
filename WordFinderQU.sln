@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordFinderQU", "WordFinderQU\WordFinderQU.csproj", "{5B7455EB-0A00-4176-A3F2-FD2B592AB788}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\QuChallenge\Tests\Tests.csproj", "{40776488-2FB2-4023-A1EF-A05700B1DB1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{A7081DC5-87C5-4D18-8A34-A18AA2A46BC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5B7455EB-0A00-4176-A3F2-FD2B592AB788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B7455EB-0A00-4176-A3F2-FD2B592AB788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B7455EB-0A00-4176-A3F2-FD2B592AB788}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40776488-2FB2-4023-A1EF-A05700B1DB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40776488-2FB2-4023-A1EF-A05700B1DB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40776488-2FB2-4023-A1EF-A05700B1DB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40776488-2FB2-4023-A1EF-A05700B1DB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7081DC5-87C5-4D18-8A34-A18AA2A46BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7081DC5-87C5-4D18-8A34-A18AA2A46BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7081DC5-87C5-4D18-8A34-A18AA2A46BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7081DC5-87C5-4D18-8A34-A18AA2A46BC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
